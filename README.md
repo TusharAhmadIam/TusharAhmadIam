@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unreal Engine 5, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://tushar.eu.org{:target="_blank"}](https://tushar.eu.org)
+- 👨‍💻 All of my projects are available at <a href="https://tushar.eu.org" target="_blank">This Portfolio</a>
 
 - 📫 How to reach me **t.ahmad.iam@gmail.com**
 
