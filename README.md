@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **t.ahmad.iam@gmail.com**
 
-- ⚡ Fun fact **Allah Rabbul Alamin**
+- ⚡ Fun fact **Allah Robbul Alamin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
